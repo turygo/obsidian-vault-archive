@@ -1,0 +1,10 @@
+{
+	"id": "vault-archive",
+	"name": "Vault Archive",
+	"version": "1.1.0",
+	"minAppVersion": "1.4.4",
+	"description": "Archive notes with configurable path and frontmatter rules.",
+	"author": "turygo",
+	"authorUrl": "https://github.com/turygo",
+	"isDesktopOnly": false
+}
